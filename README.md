@@ -2,6 +2,19 @@
 
 This repository contains an implementation of a quantum binary classifier using Parameterized Quantum Circuits (PQC) with Qiskit.
 
+## Installation
+
+1. Clone this repository:
+```bash
+git clone https://github.com/SAMeh-ZAGhloul/Parameterized-Quantum-Circuits-PQC-.git
+cd Parameterized-Quantum-Circuits-PQC-
+```
+
+2. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
+
 ## Overview
 
 The implementation includes:
