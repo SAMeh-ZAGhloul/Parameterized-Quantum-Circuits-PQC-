@@ -1,0 +1,5 @@
+qiskit>=0.44.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+jupyter>=1.0.0
